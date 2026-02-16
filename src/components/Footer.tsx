@@ -8,16 +8,16 @@ const Footer = () => {
           © 2026 All rights reserved. · Made with 🤍 by Shagun
         </p>
         <div className="flex items-center gap-3">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
+          <a href="https://github.com/Shagunsahu" target="_blank" rel="noopener noreferrer" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
             <Github size={16} />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
+          <a href="https://linkedin.com/in/shagun-sahu" target="_blank" rel="noopener noreferrer" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
             <Linkedin size={16} />
           </a>
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
             <Instagram size={16} />
           </a>
-          <a href="mailto:hello@shagun.dev" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
+          <a href="mailto:shagunsahu693@gmail.com" className="p-2 rounded-md border text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
             <Mail size={16} />
           </a>
         </div>
