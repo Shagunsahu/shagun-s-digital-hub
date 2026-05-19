@@ -23,8 +23,7 @@ const Index = () => {
               </div>
               <div className="p-6 pt-0">
                 <p className="text-muted-foreground text-sm">
-                  i design, code, overthink, and fix what i break. i like clean ui, loud music, fast planes, and learning by messing with things. i never really knew what i was doing, but i've always cared enough to figure it out.
-                </p>
+                   I am a Full-Stack Developer and Open-Source Contributor dedicated to building high-performance web applications and exploring the intricacies of distributed systems                </p>
               </div>
             </div>
           </section>
